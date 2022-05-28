@@ -3,7 +3,7 @@ from random import randint
 import string
 lst = []
 asd = 10
-password = ''
+password = ""
 
 # alphabet list
 alphabet_string =string.ascii_lowercase + string.ascii_uppercase 
@@ -25,11 +25,11 @@ for i in range(20):
     password += passwordHash
     asd -= 1
     
-with open('password.txt', 'w+') as f:
+with open("password.txt", "w+") as f:
     f.write(password)
 
 # opening + reading the file
-with open('password.txt', 'r') as f:
+with open("password.txt", "r") as f:
     x = f.readlines()
     print(x)
 
