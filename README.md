@@ -1,5 +1,5 @@
 # Some security programs in Python | Created by Viktor Synek
-Contains 2 program (main.py , check.py)
+Contains 3 program (main.py , check.py, hash.py)
 
 The ``main.py`` program generates a password for the user!
 Used 2 modules [random, string] 
