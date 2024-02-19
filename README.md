@@ -13,6 +13,3 @@ If it is then the program prints 'valid', otherwise 'invalid'!
 
 The ``hash.py`` program hash a given password using module [hashlib].
 
-Source code without comments. 
-
-[Viktor Synek Twitter](https://www.twitter.com/vAnonyms)
